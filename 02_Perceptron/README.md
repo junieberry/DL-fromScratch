@@ -46,7 +46,6 @@ XOR 게이트는 배타적 논리합이라는 논리 회로이다.
 
 이처럼 단층 퍼셉트론으로는 비선형 영역을 분리할 수 없다. 이를 해결하기 위해 퍼셉트론의 층을 쌓아 **다층 퍼셉트론**으로 구현한다.
 
-![NPN Transistor XOR Gate Circuit | Sully Station Technologies](https://lh3.googleusercontent.com/proxy/Sds2vbRqDDPFUgb2Szlkl2Xcjj4GP6w0wxIOLo0ZizCXzUvA-lKcgwCS3vz2n-nw-vOfeaGHnIM1gD-6nppSQusxcrqQIl_InGc9LQ)
 
 
 
